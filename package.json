@@ -4,6 +4,7 @@
   "description": "Contract interface metadata parser for binary WASM",
   "main": "index.js",
   "module": "./index.js",
+  "type":"module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stellar-expert/contract-wasm-interface-parser.git"
